@@ -3,7 +3,7 @@
 - **Status**: Draft
 - **Type**: Process
 - **Created**: 2026-10-13
-- **Author(s)**: Kryspin Ziemski <krys&#64;qcomp.io> (@kziemski)
+- **Author(s)**: Kryspin Ziemski <krys&#64;qcomp.io> ([@kziemski](https://github.com/kziemski))
 - **Sponsor**: None
 - **PR**: https://github.com/modelcontextprotocol/modelcontextprotocol/pull/{NUMBER}
 
